@@ -404,4 +404,5 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-
+# Hide Secrets.json file (contains MongoDB connection string )
+CommBank-Server/Secrets.json
